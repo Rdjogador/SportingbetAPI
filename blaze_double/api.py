@@ -7,8 +7,8 @@ import time
 
 class bot:
     def __init__(self):
-        self.name = 'Blaze Double'
-        self.token_bot = 'TOKEN DO BOT'
+        self.name = 'Blaze double'
+        self.token_bot = 'skskksidix'
         self.user_id = 'CHAT ID'
         self.link = 'http://api.mxvinvest.com:63000/blaze-double'
         self.chave = 'blaze_double'
